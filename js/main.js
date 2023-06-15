@@ -17,4 +17,5 @@ console.log(fullname + Viktor)
 const userName = "Максим";
 const payment = 500;
 const string = "Дякуємо, " + userName + "!" + " До сплати " + payment + " гривень";
-console.log(string)
+alert(string)
+
