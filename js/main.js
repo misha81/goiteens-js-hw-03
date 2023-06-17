@@ -16,6 +16,6 @@ console.log(fullname + Viktor)
 // ====4====
 const userName = "Максим";
 const payment = 500;
-const string = "Дякуємо, " + userName + "!" + " До сплати " + payment + " гривень";
-alert(string)
+const message = `Дякуємо, ${userName}! До сплати ${payment} гривень`;
+alert(message)
 
